@@ -1,6 +1,6 @@
-Sentiment Analysis Project
+Understanding the NLP using Different models
 
-Overview
+
 
 This project leverages Natural Language Processing (NLP) and machine learning to analyze and understand customer sentiment based on reviews of digital products. The primary goal is to classify customer feedback as positive or negative and extract meaningful insights to inform decision-making.
 
