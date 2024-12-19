@@ -4,8 +4,6 @@ Understanding the NLP using Different models
 
 This project leverages Natural Language Processing (NLP) and machine learning to analyze and understand customer sentiment based on reviews of digital products. The primary goal is to classify customer feedback as positive or negative and extract meaningful insights to inform decision-making.
 
-Features
-
 Data Cleaning and Preprocessing: Text data is cleaned to remove noise, standardize formats, and prepare it for analysis.
 
 Exploratory Data Analysis (EDA): Visualizations and statistics to understand the distribution of sentiments and common themes in the data.
@@ -21,10 +19,6 @@ Support Vector Machines (SVM)
 Neural Networks
 
 Evaluation Metrics: The models are evaluated using metrics such as accuracy, precision, recall, and F1-score.
-
-Dataset
-
-Source
 
 Customer reviews are collected from various digital product categories, including:
 
